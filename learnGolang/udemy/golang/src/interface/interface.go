@@ -22,7 +22,7 @@ type Sword struct {
 }
 
 func (s Sword) detail() string {
-	return "Super cold Iced sword "
+	return "Super cold  Iced sword "
 }
 func (s Sword) cost() int {
 	return 10
